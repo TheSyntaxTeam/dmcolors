@@ -1,0 +1,15 @@
+function n-- {     
+    python "C:\Users\naves\Music\notepad--.py" 
+}
+
+function i-- {     
+    & "C:\Users\naves\Music\multi ip grabber.exe" 
+}
+
+function gm-- {     
+    & "C:\Users\naves\Music\gmail-spammer.exe" 
+}
+
+function cmd-- {     
+    & "C:\Users\naves\Music\dmcolors.exe" 
+}
